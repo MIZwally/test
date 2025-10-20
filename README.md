@@ -1,2 +1,2 @@
 # test
-for teaching how to use git
+for teaching how to use git :)
