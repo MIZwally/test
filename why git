@@ -1,0 +1,19 @@
+Why Git?
+
+1. Tracking
+
+- track changes and version history
+- see who did what, keeps people honest
+- can go back to a previous version easily, say if you break your code
+
+2. Public Record
+
+- show your code to employers as a resume builder, proof that you can code
+- helps with reproducibility, other people can run your code and reproduce
+your results
+
+3. Sharing is Caring
+
+- don't need to reinvent the wheel every time someone does a similar analysis
+- easier collaboration and sharing of resources
+- ReadMes are great for explaining your code and how it works
